@@ -202,11 +202,11 @@ a i {
 }
 
 .panel-highlighted {
-    box-shadow: 0px 0px 3px #18bc9c, 10px 10px 20px #000000;
+    box-shadow: 0px 0px 3px #235269, 10px 10px 20px #000000;
 }
 
 .panel-highlighted:hover {
-    box-shadow: 0px 0px 3px #18bc9c, 10px 10px 20px #000000, 0px 0px 8px #000000;
+    box-shadow: 0px 0px 3px #235269, 10px 10px 20px #000000, 0px 0px 8px #000000;
 }
 
 .panel-item:not(.panel-highlighted):hover  {
